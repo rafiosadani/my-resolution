@@ -3,5 +3,5 @@ Resolusi Saya untuk tahun 2021
 - Mempunyai niat untuk belajar programming dari dasar lagi
 - Mempunyai relasi yang berkompeten di bidang IT
 - Menguasai atau bisa membuat sistem informasi menggunakan framework laravel
-- Mampu mengkombinasikan antara laravel dengan framework javascript
+- Mampu mengkombinasikan antara laravel dengan framework javascript seperti vuejs dan angular
 - Mempunyai keterampilan dalam menuliskan kode program sesuai dengan paradigma yang berlaku
